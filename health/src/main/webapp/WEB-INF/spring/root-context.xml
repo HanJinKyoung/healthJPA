@@ -18,7 +18,7 @@
 			value="com.mysql.cj.jdbc.Driver"></property>
 		<property name="url"
 			value="jdbc:mysql://localhost:3306/test11?serverTimezone=Asia/Seoul"></property>
-		<property name="username" value="root"></property>
+		<property name="username" value="user1"></property>
 		<property name="password" value="root1234"></property>
 		
 	</bean>
